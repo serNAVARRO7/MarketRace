@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - colliderAlimento
+  - colliderSupermercado
+  - colliderAlimento1
+  - colliderAlimento2
+  - colliderAlimento3
+  - colliderAlimento4
+  - colliderAlimento5
+  - colliderAlimento6
+  - colliderAlimento7
+  - colliderAlimento8
+  - colliderAlimento9
+  - colliderAlimento10
+  - colliderAlimento11
+  - colliderAlimento12
+  - colliderAlimento13
+  - colliderAlimento14
+  - colliderAlimento15
+  - colliderAlimento16
+  - colliderAlimento17
+  - colliderAlimento18
+  - colliderAlimento19
+  - colliderAlimento20
+  - colliderAlimento21
+  - colliderAlimento22
+  - colliderAlimento23
+  - colliderAlimento24
+  - colliderCaja
+  - colliderPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
