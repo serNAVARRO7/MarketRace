@@ -1,8 +1,11 @@
 # 🏁MarketRace
+<p align="center">
+  <img src="https://github.com/serNAVARRO7/MarketRace/blob/master/banner.png">
+</p>
 Local multiplayer game developed with Unity engine in C# available on itch.io
 
 <h3>¿HOW TO PLAY?</h3>
-Pick all the products in your list and pay at the cash register before your opponent. When you pick a product you will also take an object to annoy your opponent.
+Pick all the products in your list and pay at the cash register before your competitor. When you pick a product you will also take an object to annoy your opponent.
 
 <h3>CONTROLS</h3>
 
