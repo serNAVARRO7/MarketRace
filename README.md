@@ -24,6 +24,8 @@ Pick all the products in your list and pay at the cash register before your comp
   <li>"2" to use an object</li>
 </ul>
 
-https://invasivegames.itch.io/marketrace
-
-🍩  🍝  🍞  🍠  🍡  🍣  🍤  🍧
+<p align="center">
+<a title="link" href="https://invasivegames.itch.io/marketrace"><img src="https://github.com/serNAVARRO7/MarketRace/blob/master/available.png" alt="link" /></a>
+  
+<p align="center"> click to play </p>
+</p>
