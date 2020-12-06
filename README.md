@@ -24,6 +24,4 @@ Pick all the products in your list and pay at the cash register before your comp
   <li>"2" to use an object</li>
 </ul>
 
-<p align="center">
 <iframe frameborder="0" src="https://itch.io/embed/494136" width="208" height="167"><a href="https://invasivegames.itch.io/marketrace">MarketRace by InvasiveGames</a></iframe>
-</p>
