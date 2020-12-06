@@ -25,7 +25,7 @@ Pick all the products in your list and pay at the cash register before your comp
 </ul>
 
 <p align="center">
-<a title="link" href="https://invasivegames.itch.io/marketrace"><img src="https://github.com/serNAVARRO7/MarketRace/blob/master/available.png" alt="link" /></a>
+<a title="link" href="https://sernavarro.itch.io/marketrace"><img src="https://github.com/serNAVARRO7/MarketRace/blob/master/available.png" alt="link" /></a>
 
 <p align="center"> click to play </p>
 </p>
