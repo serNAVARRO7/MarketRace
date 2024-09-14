@@ -1,31 +1,34 @@
-# 🏁MarketRace
+# 🏁🍕🛒️ MarketRace
+
 <p align="center">
-  <img src="https://github.com/serNAVARRO7/MarketRace/blob/master/banner.png">
+  <img src="https://github.com/serNAVARRO7/MarketRace/blob/master/banner.png" alt="MarketRace Banner" width="600">
 </p>
-Local multiplayer game developed with Unity engine in C# available on itch.io
 
-<h3>¿HOW TO PLAY?</h3>
-Pick all the products in your list and pay at the cash register before your competitor. When you pick a product you will also take an object to annoy your opponent.
+**Local Multiplayer Game** | Developed with Unity and C# | Available on [Itch.io](https://sernavarro.itch.io/marketrace)
 
-<h3>CONTROLS</h3>
+---
 
-<h5>Player 1-></h5>
-<ul>
-  <li>W/A/S/D to move</li>
-  <li>"H" to pick the product</li>
-  <li>"J" to use an object</li>
-</ul>
+## 🛒 DESCRIPTION
+Compete against a friend to be the first to complete the shopping list. Dash through the aisles, collect items, and use special power-ups to gain an advantage or annoy your opponent. The first player to collect all the items on the list and reach the checkout wins the game.
 
-<h5>Player 2-></h5>
+---
 
-<ul>
-  <li>Arrows to move</li>
-  <li>"1" to pick the product</li>
-  <li>"2" to use an object</li>
-</ul>
+## 🎮 CONTROLS
+
+### Player 1:
+- **Move:** `W/A/S/D`
+- **Pick Up Items:** `H`
+- **Use Power-Ups:** `J`
+
+### Player 2:
+- **Move:** Arrow keys
+- **Pick Up Items:** `1`
+- **Use Power-Ups:** `2`
+
+---
 
 <p align="center">
-<a title="link" href="https://sernavarro.itch.io/marketrace"><img src="https://github.com/serNAVARRO7/MarketRace/blob/master/available.png" alt="link" /></a>
-
-<p align="center"> click to play </p>
+<a title="Download MarketRace" href="https://sernavarro.itch.io/marketrace">
+  <img src="https://github.com/serNAVARRO7/MarketRace/blob/master/available.png" alt="Download on Itch.io" width="200">
+</a>
 </p>
